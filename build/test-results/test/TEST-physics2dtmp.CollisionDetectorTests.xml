@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="physics2dtmp.CollisionDetectorTests" tests="27" skipped="0" failures="0" errors="0" timestamp="2022-01-10T01:38:06" hostname="DESKTOP-GRDHBAK" time="0.013">
+  <properties/>
+  <testcase name="pointOnLine2DShouldReturnTrueTest" classname="physics2dtmp.CollisionDetectorTests" time="0.006"/>
+  <testcase name="pointOnLine2DShouldReturnTrueTestTwo" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointOnLineShouldReturnTrueTestThree" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInCircleShouldReturnTrueTestFive" classname="physics2dtmp.CollisionDetectorTests" time="0.001"/>
+  <testcase name="pointInCircleShouldReturnTrueTestFour" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInRotatedShouldReturnFalseTestOne" classname="physics2dtmp.CollisionDetectorTests" time="0.001"/>
+  <testcase name="pointInRotatedShouldReturnFalseTestTwo" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInRotatedBox2DShouldReturnTrueTestOne" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInBox2DShouldReturnTrueTestFour" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointOnVerticalLineShouldReturnTrue" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointOnLineShouldReturnTrueTestFour" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInCircleShouldReturnTrueTestOne" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInCircleShouldReturnTrueTestTwo" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInRotatedBox2DShouldReturnTrueTestThree" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInBox2DShouldReturnTrueTestOne" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInBox2DShouldReturnTrueTestTwo" classname="physics2dtmp.CollisionDetectorTests" time="0.001"/>
+  <testcase name="pointOnLineShouldReturnTrueTestOne" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointOnLineShouldReturnTrueTestTwo" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInRotatedShouldReturnTrueTestTwo" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInBox2DShouldReturnTrueTestThree" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInCircleShouldReturnFalseTestOne" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInCircleShouldReturnFalseTestTwo" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInRotatedShouldReturnTrueTestFour" classname="physics2dtmp.CollisionDetectorTests" time="0.001"/>
+  <testcase name="pointInBox2DShouldReturnFalseTestOne" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointInBox2DShouldReturnFalseTestTwo" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointOnLineShouldReturnFalseTestOne" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <testcase name="pointOnLineShouldReturnFalseTestTwo" classname="physics2dtmp.CollisionDetectorTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
